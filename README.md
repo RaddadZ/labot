@@ -25,6 +25,14 @@ This project is a **proof of concept (PoC)** Telegram bot designed to help track
 1. **Build the Project**: Use `go build` to compile the project.
 2. **Run the Bot**: Execute the compiled binary. The bot will start and begin listening for commands.
 
+### Using Docker
+
+You can also run this project using Docker with the provided Dockerfile:
+
+To build and run the Docker container:
+1. **Build the Docker Image**: docker build -t labot .
+2. **Run the Docker Container**: docker run -e LABOT_TOKEN=<your_token> labot
+
 ## Commands
 
 - **/start**: Start the bot and initialize the chat.
