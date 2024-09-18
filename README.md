@@ -4,9 +4,8 @@
 
 This project is a **proof of concept (PoC)** Telegram bot designed to help track labor contractions during childbirth. It was developed in a short span of 2-3 hours. While the bot is functional, it still requires more organization and is missing some features.
 
-![Buttons Menu ](/assets/buttons-menu.png)
-![Commands Menu ](/assets/commands-menu.png)
-
+<img src="assets/buttons-menu.png" alt="drawing" width="355"/>
+<img src="assets/commands-menu.png" alt="drawing" width="355"/>
 
 ## Features
 
